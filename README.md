@@ -11,7 +11,7 @@ React + TypeScript project using Vite and Tailwind CSS.
 
 ## Requirements
 
-- Node.js (tested on version 22.x)
+- Node.js v18 or higher (tested on version 22.x)
 - NPM
 
 ## How to run application
@@ -20,7 +20,7 @@ React + TypeScript project using Vite and Tailwind CSS.
 
 ```bash
 git clone https://github.com/Sellfy/test-assignment-frontend
-cd <PROJECT_FOLDER>
+cd sellfy-table
 ```
 
 2. **Install dependencies**
