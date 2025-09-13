@@ -1,0 +1,11 @@
+th {
+  @apply border-b border-stroke p-4 text-text-secondary rounded-[8px];
+}
+
+td {
+  @apply text-left px-4 py-2;
+}
+
+.price {
+  @apply text-[#1d224f];
+}

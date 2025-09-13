@@ -1,0 +1,11 @@
+button {
+	@apply text-black;
+}
+
+.btn {
+	@apply border border-btnborder text-btntext rounded-[4px] px-4 py-2 transition-all duration-100;
+}
+
+.btn:hover {
+	@apply bg-btnhoverbg;
+}

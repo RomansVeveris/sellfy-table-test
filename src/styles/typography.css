@@ -1,0 +1,26 @@
+p {
+  @apply text-[14px] sm:text-[16px];
+}
+
+th, tr {
+  @apply text-[14px] sm:text-[16px];
+}   
+
+h1 {
+  @apply text-[40px];
+}
+h2 {
+  @apply text-[36px];
+}
+h3 {
+  @apply text-[32px];
+}
+h4 {
+  @apply text-[24px];
+}
+h5 {
+  @apply text-[20px];
+}
+h6 {
+  @apply text-[18px];
+}

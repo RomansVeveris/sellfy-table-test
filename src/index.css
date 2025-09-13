@@ -1,0 +1,40 @@
+@import "tailwindcss";
+@import "./styles/typography.css";
+@import "./styles/table.css";
+@import "./styles/buttons.css";
+
+:root {
+  --color-background: #ececec;
+  --color-stroke: #e4e2e2;
+
+  --color-text-primary: #000000;
+  --color-text-secondary: #999999;
+
+  --color-btnborder: #86ffdb;
+  --color-btnhoverbg: #8ffddc;
+  --color-btntext : #057e50;
+
+  --font-poppins: 'Poppins', sans-serif;
+}
+
+@theme {
+  --color-background: var(--color-background);
+  --color-stroke: var(--color-stroke);
+
+  --color-text-primary: var(--color-text-primary);
+  --color-text-secondary: var(--color-text-secondary);
+
+  --color-btnborder: var(--color-btnborder);
+  --color-btnhoverbg: var(--color-btnhoverbg);
+  --color-btntext: var(--color-btntext);
+
+  --font-primary: var(--font-poppins);
+}
+
+body {
+  font-family: var(--font-primary);
+  @apply bg-background m-0 p-4;
+}
+*, *::before, *::after {
+  box-sizing: border-box;
+}
