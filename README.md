@@ -20,7 +20,7 @@
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/Sellfy/test-assignment-frontend
+git clone https://github.com/RomansVeveris/sellfy-table-test.git
 cd sellfy-table
 ```
 
