@@ -21,7 +21,7 @@
 
 ```bash
 git clone https://github.com/RomansVeveris/sellfy-table-test.git
-cd sellfy-table
+cd sellfy-table-test
 ```
 
 2. **Install dependencies**
