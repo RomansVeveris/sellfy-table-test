@@ -1,7 +1,7 @@
 # Sellfy table 
 
-Web application that displays a list of products in a table format.
-React + TypeScript project using Vite and Tailwind CSS.
+- Web application that displays a list of products in a table format.-
+- React + TypeScript project using Vite and Tailwind CSS.
 
 ## Technologies
 
